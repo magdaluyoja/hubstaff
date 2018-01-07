@@ -1,0 +1,28 @@
+.list {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f2f2f2;
+  padding: 2rem; 
+  margin-top: 1rem;
+  border-radius: 1rem;
+}
+
+.list__name {
+  font-weight: 300;
+  font-size: 1.8rem;
+}
+
+.list__details {
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 300;
+  span{
+  	margin-right: 1rem;
+    display:block;
+  }
+}
+
+.list__actions {
+  flex-shrink: 0;
+}

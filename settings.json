@@ -1,0 +1,9 @@
+{
+	"kadira": { 
+	  	"appId": "QrLaGLGq2rXP9Zn2f", 
+	  	"appSecret": "944e2d27-6b0d-4cf6-b539-fd9a68f2ef15",
+	    "options":{
+	      "endpoint": "http://138.68.0.171:11011"
+	    }
+	}
+}
